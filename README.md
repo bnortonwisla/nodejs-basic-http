@@ -1,19 +1,19 @@
-#Basic Node.js Web Server
-##Background
+# Basic Node.js Web Server
+## Background
 This is a very basic starter web server accessed with http://localhost:3000 .
 
 It uses the http Node.js module and runs on hardcoded port 3000.
 
-##Behavior
+## Behavior
 * Server: logs to console when any URL is accessed
 * Browser: displays message with echoed URL
 
-##Setup
-###Prerequisites
+## Setup
+### Prerequisites
 1. Node.js
 1. Node package manager 
 
-###Using
+### Using
 1. Check out repository.
 1. Run npm install in checked out folder.
 1. Run the web server using npm:
@@ -22,7 +22,7 @@ It uses the http Node.js module and runs on hardcoded port 3000.
     * Other options in package.json 
 1. Access in browser at http://localhost:3000
 
-##Directory Structure
+## Directory Structure
 * Core
     * README.md: this file
     * src directory: TypeScript source files
@@ -39,13 +39,13 @@ It uses the http Node.js module and runs on hardcoded port 3000.
     * lib directory: JavaScript compiled files
     * lib/index.js: entry point for "prod" server assumed by scripts 
 
-##Resources
+## Resources
 * Basic setup: https://blog.risingstack.com/your-first-node-js-http-server/
 * Live reloading with TypeScript: https://medium.com/@sudarshanadayananda/how-to-live-reload-typescript-node-server-bc40171fdb7
 * GitHub Markdown: https://guides.github.com/features/mastering-markdown/
 * ESLint for TypeScript: https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
 
-##Future Ideas
+## Future Ideas
 * Configurable port (registry or configuration file?)
 * Debugging (with or without VS Code)
 * Incorporate VS Code Recipes template: https://github.com/Microsoft/vscode-recipes/
