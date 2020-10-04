@@ -46,6 +46,7 @@ It uses the http Node.js module and runs on hardcoded port 3000.
 * ESLint for TypeScript: https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
 
 ## Future Ideas
+* Clean script
 * Configurable port (registry or configuration file?)
 * Debugging (with or without VS Code)
 * Incorporate VS Code Recipes template: https://github.com/Microsoft/vscode-recipes/
