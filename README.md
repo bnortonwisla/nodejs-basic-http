@@ -1,6 +1,6 @@
 #Basic Node.js Web Server
 ##Background
-This is a very basic starter web server accessed with http://localhost:3000 
+This is a very basic starter web server accessed with http://localhost:3000 .
 
 It uses the http Node.js module and runs on hardcoded port 3000.
 
